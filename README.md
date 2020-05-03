@@ -6,4 +6,5 @@
 * [Supervised Learning](finding-donors)
 * [Unsupervised Learning](customer-segments)
 * [Reinforcement Learning](smartcab)
+* [Capstone - Home Credit Default Risk](home-credit-default-risk)
  

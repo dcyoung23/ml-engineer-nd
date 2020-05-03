@@ -14,7 +14,9 @@ __init__.py
 **.pyc
 
 # Misc project files/folders to exclude
+/home-credit-default-risk/data
 **/logs
 **.zip
+**.rtf
 **.tgz
 **.doc*
