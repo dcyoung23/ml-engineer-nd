@@ -5,4 +5,5 @@
 * [Model Evaluation & Validation](boston-housing)
 * [Supervised Learning](finding-donors)
 * [Unsupervised Learning](customer-segments)
+* [Reinforcement Learning](smartcab)
  

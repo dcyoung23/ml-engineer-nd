@@ -10,11 +10,11 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__
+__init__.py
 **.pyc
 
 # Misc project files/folders to exclude
-**/archive
-**/misc
+**/logs
 **.zip
 **.tgz
 **.doc*
