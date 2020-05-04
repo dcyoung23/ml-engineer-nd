@@ -13,8 +13,16 @@ __pycache__
 __init__.py
 **.pyc
 
-# Misc project files/folders to exclude
+# dog-app
+**/dogImages
+**/lfw
+**/images
+**/test_images
+
+# capstone
 /home-credit-default-risk/data
+
+# Misc project files/folders to exclude
 **/logs
 **/misc
 **/practice
